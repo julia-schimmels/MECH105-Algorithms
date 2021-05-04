@@ -14,3 +14,6 @@ This algorithm uses the simpson's 1/3 rule to integrate experimental data from a
 - the inputs must be the same length
 - the x input must be equally spaced
 - the data may use the trapezoidal rule along with the simpson's 1/3 rule to solve the integral
+
+### General Information
+Simpson's 1/3 rule is a numerical integration method which provides an approximation for definite integrals. The rule is applied to a number (n) of equal subdivisions between an upper and lower bound and applies a formula that finds the approximate integral under a curve. The simpson's 1/3 rule is an example of a closed Newton-Cotes formula.
