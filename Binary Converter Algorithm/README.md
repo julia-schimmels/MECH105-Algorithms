@@ -1,5 +1,4 @@
 # Binary Converter Algorithm
------------------------------
 
 ## What does it do?
 The binary converter algorithm converts a base 10 number (decimal, or "normal" numbers) to an array of its base 2 number (binary). 
