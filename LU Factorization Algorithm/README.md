@@ -1,4 +1,4 @@
-# LU Factorization 
+# LU Factorization Algorithm
 
 ## What does it do?
 
