@@ -5,10 +5,12 @@
 The LU factorization algorithm determines the LU factorization of a square matrix with partial pivoting. It is essentially performing linear algebra and provides you with the lower triangular matrix, upper triangular matrix, and pivot matrix.
 
 ### Input
-The input, (A), is a coefficient matrix
+- *A* - a coefficient matrix
 
 ### Output
-The outputs, [L], [U], and [P], are the lower triangular matrix, the upper triangular matrix, and the pivot matrix, respectively.
+- *L* - lower triangular matrix
+- *U* - upper triangular matrix
+- *P* - pivot matrix
 
 ### Limitations
 - the algorithm only accepts square matrices
